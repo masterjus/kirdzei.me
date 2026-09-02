@@ -1,0 +1,121 @@
+{
+  "format": "standalone-file-v1",
+  "sourceFiles": {
+    "app/page.tsx": "6f182113444152e8dbefce6537abc27c5d4a01bd2598633e0840d38699b66610",
+    "components/about-me.tsx": "a0cb01e95d074fe753700b08595080281535e40899cc8f1f35fd153520374c50",
+    "components/ui/tooltip.tsx": "d01274a1a2d9a34c6f61c6f647a0f02ce368016cd4b7179728c4c1e9b0149494",
+    "components/spectrumui/event_badge-3d.tsx": "3ecbacfba3dc6b0a1cee7552761ec3e1a499b055deafc1eb7940e996c505d505",
+    "components/page-background.tsx": "609c1ccce5b0355710da87f99f24602e0e4d4148cabdb6750bf3dfaab4cfc765",
+    "components/animated-card-stack.tsx": "49d5480388c4c92fce4fafb4566a02242aebddc6fb84d6783e2a6314827a931c",
+    "components/spectrumui/badge-interactions.ts": "66d87e2a656a6f8b5525ebbc1a96084062ea6d1e5fe08db70a05fca0c72915eb",
+    "app/mikes-original.css": "13cbe8a575f4b7ee93c91ed7cf0b60b101a1bbf7c4dff7a6c0422b193c8fa650",
+    "app/globals.css": "aba878cd51227bb688843749ae9c02e865d7db36b441ea7ca09d90e036339ce2"
+  },
+  "embeddedAssets": {
+    "/folio/company-logos/warecorp.svg": {
+      "sha256": "e8e261dd23840a7b6385d294a91700f32b459e38763901f627f728a9daaa1ac6",
+      "bytes": 3637
+    },
+    "/folio/company-logos/oxagile.svg": {
+      "sha256": "1f5e1de5ed2fe88c6af19a5ddb37701df22194c4e79786c5b14ae968071c8d32",
+      "bytes": 548
+    },
+    "/folio/company-logos/prontosoft.svg": {
+      "sha256": "91e4a40cf9dfa83251e5be2907f763ab300aca6770d4ad0ed65ecf20630a1f6d",
+      "bytes": 7263
+    },
+    "/folio/company-logos/bylectric.svg": {
+      "sha256": "13c68150f6699d6be1ca8625a86ba7d31e75420fea38b4f676798871cb05caf0",
+      "bytes": 1069
+    },
+    "/folio/company-logos/eleganceit.svg": {
+      "sha256": "45793a00c51ff788839409e453603f45ac95a9bcad5ff4f7a92045fad60a5791",
+      "bytes": 9924
+    },
+    "/folio/company-logos/belhard.svg": {
+      "sha256": "d3b065743fdc3ba7f6a25194bf3d68caebd9f390b269afc021efcbb405cdeae6",
+      "bytes": 6201
+    },
+    "/folio/company-logos/nuwber.svg": {
+      "sha256": "f625177e5e34693205cb8888fbc7d2a504fa4330223fde979407bd37291c3597",
+      "bytes": 754
+    },
+    "/folio/company-logos/insly.svg": {
+      "sha256": "639ed9958e38b8c21706f3e9951085f26a257a59db4b64ec7cfcf229d3a55955",
+      "bytes": 7854
+    },
+    "/folio/company-logos/onliner.svg": {
+      "sha256": "e1c1cadb44eeda2c098bb6b03468a9906e6876776fedee6c05f0685ff4e6df4b",
+      "bytes": 497
+    },
+    "/folio/company-logos/akavita.svg": {
+      "sha256": "652c27d27009bb5e3552ef3a0d700ab628f7b1fad363c9a6461077ba83966e8c",
+      "bytes": 995
+    },
+    "/Eugene-Kirdzei-CV.pdf": {
+      "sha256": "57c9fe427e056fedfc8626dbeca07340517fe5d0ec5ca4e111e0e551a1cc4575",
+      "bytes": 2248410
+    },
+    "/folio/photo_2026-08-28_20-11-57.jpg": {
+      "sha256": "03ff510299015cfac1db04b10212c5c76b97f62c3e28dbab8fd724f29deb1a25",
+      "bytes": 131720
+    },
+    "/folio/photo_2026-08-28_20-11-20.jpg": {
+      "sha256": "91d3cc69593e9277a27fc906107f17616d08b84e3587a38239188fae797934ed",
+      "bytes": 133373
+    },
+    "/badge-assets/tag.bin": {
+      "sha256": "f03665278bf329e7fc932e61354889c1980e140de72ce74f6b4c2ba07d3a60d8",
+      "bytes": 156064
+    },
+    "/folio/photo_2026-08-28_20-17-16.jpg": {
+      "sha256": "126006c32d5be595630ac7fbc1cb0029c6ba7b455f39c5a31e88f1c67a7ef11e",
+      "bytes": 42819
+    },
+    "/badge-assets/eugene-badge-architect.png": {
+      "sha256": "8a03f09f250d717e27122bb6bfc7b260f705e17f8936aff70e8a30c23c60a060",
+      "bytes": 242144
+    },
+    "/badge-assets/tag.gltf": {
+      "sha256": "762a5b1c53b74d69be032f488cc7d2dbba012aeabfb6d8838b63936aa7fc169a",
+      "bytes": 4942
+    },
+    "/badge-assets/eugene-strap-pattern.png": {
+      "sha256": "e0f87bcb0a1d536222355735fbc7cf7faf84571628dbfe4b1b2f4e632dc77743",
+      "bytes": 31424
+    },
+    "/assets/a-BwCKRlZ-.woff2": {
+      "sha256": "af5d5fa6bc16f76e3b44e5a910925324891dbc4546f8d245f7aac6ac0f3296bc",
+      "bytes": 29372
+    },
+    "/assets/b-C3VRySno.woff2": {
+      "sha256": "efccb9551865d351b9319964b2c4fb1a38562eb08d15fff83499d7ef444919bd",
+      "bytes": 29440
+    },
+    "/assets/c-ClSDCIEF.woff2": {
+      "sha256": "142e4873263a3ec72c5a64507ad5683c4236d0f1ebb06d10aee47aa5f1f05abc",
+      "bytes": 8652
+    },
+    "/assets/d-CQR7nPae.woff2": {
+      "sha256": "8e7de9b7efcd5c4437b8726658be674a702ea22563bd592d5734e05c2c8f2954",
+      "bytes": 8716
+    },
+    "/assets/DS-Digital-dG6DdXEc.ttf": {
+      "sha256": "87eb14d41eeeac0bd7fe0c62ece05134bbf1ee8059b6e3e701d7f4a7799506dc",
+      "bytes": 24448
+    },
+    "/assets/satoshi-regular.woff2": {
+      "sha256": "50dca57f0b77918e0fb7dac998c3f5ef6b0c2a29657da97658a04f98ac532fc5",
+      "bytes": 25516
+    },
+    "/assets/satoshi-medium.woff2": {
+      "sha256": "af02a72246f53ad49c44a591921edbd39ec8258a03d8cc2e0532aa1e497e85b4",
+      "bytes": 25596
+    },
+    "/assets/satoshi-bold.woff2": {
+      "sha256": "353a7fbfb4475f0c31470a7449226006cb64211c71055ca9db860a8acdaa9f68",
+      "bytes": 25328
+    }
+  },
+  "pdfSha256": "57c9fe427e056fedfc8626dbeca07340517fe5d0ec5ca4e111e0e551a1cc4575"
+}
